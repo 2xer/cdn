@@ -1,0 +1,9 @@
+tv-name="Bloomberg" tv-type="m3u8" tv-logo="https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/e351b098-2b51-5fe6-a4fb-89d53e6e084c/e1552eaa-b7d1-56e6-a296-59dbf0e1db7d.jpg" tv-link="https://bloomberg.com/media-manifest/streams/us.m3u8"
+
+tv-name="Red Bull TV" tv-type="m3u8" tv-logo="https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-png-transparent.png" tv-link="https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+
+tv-name="Al Jazeera English" tv-type="yt" tv-logo="https://upload.wikimedia.org/wikinews/en/thumb/0/0f/Al_Jazeera.svg/1229px-Al_Jazeera.svg.png" tv-link="UCNye-wNBqNL5ZzHSJj3l8Bg"
+
+tv-name="Ekattor TV" tv-type="yt" tv-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" tv-link="UCtqvtAVmad5zywaziN6CbfA"
+
+tv-name="Ekhon TV" tv-type="yt" tv-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" tv-link="UCWVqdPTigfQ-cSNwG7O9MeA"
