@@ -8,8 +8,8 @@
         "type": "m3u8"
       },
       {
-        "url": "UCIALMKvObZNtJ6AmdCLP7Lg",
-        "type": "yt"
+        "url": "https://www.youtube.com/embed/live_stream?channel=UCIALMKvObZNtJ6AmdCLP7Lg&vq=hd1080&autoplay=1",
+        "type": "web"
       },
       {
         "url": "https://bloomberg.com/media-manifest/streams/us.m3u8",
