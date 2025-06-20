@@ -1,202 +1,202 @@
 [
-  {
-    "name": "Bloomberg",
-    "logo": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/e351b098-2b51-5fe6-a4fb-89d53e6e084c/e1552eaa-b7d1-56e6-a296-59dbf0e1db7d.jpg",
-    "group": "News",
-    "epg": "https://epg.pw/api/epg.xml?lang=en&date=20250620&channel_id=422716",
-    "links": [
-      {
-        "url": "https://bloomberg.com/media-manifest/streams/us.m3u8",
-        "type": "m3u8"
-      },
-      {
-        "url": "https://www.youtube.com/embed/live_stream?channel=UCIALMKvObZNtJ6AmdCLP7Lg&vq=hd1080&autoplay=1",
-        "type": "web"
-      },
-      {
-        "url": "https://bloomberg.com/media-manifest/streams/us.m3u8",
-        "type": "m3u8"
-      }
-    ]
-  },
-  {
-    "name": "Red Bull TV",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712",
-    "links": [
-      {
-        "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
-        "type": "m3u8"
-      }
-    ]
-  },
-  {
-    "name": "BTV NEWS",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/BTV_News_Logo.png",
-    "links": [
-      {
-        "url": "https://www.btvlive.gov.bd/channel/BTV-News",
-        "type": "web"
-      }
-    ]
-  },
-  {
-    "name": "Al Jazeera English",
-    "logo": "https://upload.wikimedia.org/wikinews/en/thumb/0/0f/Al_Jazeera.svg/1229px-Al_Jazeera.svg.png",
-    "links": [
-      {
-        "url": "https://www.youtube.com/embed/live_stream?channel=UCNye-wNBqNL5ZzHSJj3l8Bg&vq=hd1080&autoplay=1",
-        "type": "web"
-      }
-    ]
-  },
-  {
-      "name": "RTV News",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/800px-Rtv_bangladesh.svg.png",
-      "links": [
-        {
-          "url": "https://www.youtube.com/embed/live_stream?channel=UC2P5Fd5g41Gtdqf0Uzh8Qaw&vq=hd1080&autoplay=1",
-          "type": "web"
-        }
+   {
+      "name":"Bloomberg",
+      "logo":"https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/e351b098-2b51-5fe6-a4fb-89d53e6e084c/e1552eaa-b7d1-56e6-a296-59dbf0e1db7d.jpg",
+      "group":"News",
+      "epg":"https://epg.pw/api/epg.xml?lang=en&date=20250620&channel_id=422716",
+      "links":[
+         {
+            "url":"https://bloomberg.com/media-manifest/streams/us.m3u8",
+            "type":"m3u8"
+         },
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UCIALMKvObZNtJ6AmdCLP7Lg&vq=hd1080&autoplay=1",
+            "type":"web"
+         },
+         {
+            "url":"https://bloomberg.com/media-manifest/streams/us.m3u8",
+            "type":"m3u8"
+         }
       ]
-  },
-  {
-      "name": "Boishakhi Tv News",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png",
-      "links": [
-        {
-          "url": "https://www.youtube.com/embed/live_stream?channel=UCTSvHZkOStz5Ak2J_q6YRlA&vq=hd1080&autoplay=1",
-          "type": "web"
-        }
+   },
+   {
+      "name":"Red Bull TV",
+      "logo":"https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712",
+      "links":[
+         {
+            "url":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+            "type":"m3u8"
+         }
       ]
-  },
-  {
-      "name": "EKHON TV",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",
-      "links": [
-        {
-          "url": "https://www.youtube.com/embed/live_stream?channel=UCWVqdPTigfQ-cSNwG7O9MeA&vq=hd1080&autoplay=1",
-          "type": "web"
-        }
+   },
+   {
+      "name":"BTV NEWS",
+      "logo":"https://upload.wikimedia.org/wikipedia/en/c/c2/BTV_News_Logo.png",
+      "links":[
+         {
+            "url":"https://www.btvlive.gov.bd/channel/BTV-News",
+            "type":"web"
+         }
       ]
-  },
-  {
-      "name": "Channel 24",
-      "logo": "https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png",
-      "links": [
-        {
-          "url": "https://www.youtube.com/embed/live_stream?channel=UCHLqIOMPk20w-6cFgkA90jw&vq=hd1080&autoplay=1",
-          "type": "web"
-        }
+   },
+   {
+      "name":"Al Jazeera English",
+      "logo":"https://upload.wikimedia.org/wikinews/en/thumb/0/0f/Al_Jazeera.svg/1229px-Al_Jazeera.svg.png",
+      "links":[
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UCNye-wNBqNL5ZzHSJj3l8Bg&vq=hd1080&autoplay=1",
+            "type":"web"
+         }
       ]
-  },
-  {
-      "name": "NEWS24 LIVE",
-      "logo": "https://static.iono.fm/files/p3108/logo_3108_20230116_122650_600.jpg",
-      "links": [
-        {
-          "url": "https://www.youtube.com/embed/live_stream?channel=UCb2O5Uo4a26CdTE7_2QA-jA&vq=hd1080&autoplay=1",
-          "type": "web"
-        }
+   },
+   {
+      "name":"RTV News",
+      "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/800px-Rtv_bangladesh.svg.png",
+      "links":[
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UC2P5Fd5g41Gtdqf0Uzh8Qaw&vq=hd1080&autoplay=1",
+            "type":"web"
+         }
       ]
-  },
-  {
-      "name": "DBC NEWS",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",
-      "links": [
-        {
-          "url": "https://www.youtube.com/embed/live_stream?channel=UCUvXoiDEKI8VZJrr58g4VAw&vq=hd1080&autoplay=1",
-          "type": "web"
-        }
+   },
+   {
+      "name":"Boishakhi Tv News",
+      "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png",
+      "links":[
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UCTSvHZkOStz5Ak2J_q6YRlA&vq=hd1080&autoplay=1",
+            "type":"web"
+         }
       ]
-  },
-  {
-      "name": "NTV Live",
-      "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/5/58/NTV_logo_with_slogan_2003.png",
-      "links": [
-        {
-          "url": "https://www.youtube.com/embed/live_stream?channel=UC0V3IJCnr6ZNjB9t_GLhFFA&vq=hd1080&autoplay=1",
-          "type": "web"
-        }
+   },
+   {
+      "name":"EKHON TV",
+      "logo":"https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",
+      "links":[
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UCWVqdPTigfQ-cSNwG7O9MeA&vq=hd1080&autoplay=1",
+            "type":"web"
+         }
       ]
-  },
-  {
-      "name": "Ekattor TV",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",
-      "links": [
-        {
-          "url": "https://www.youtube.com/embed/live_stream?channel=UCtqvtAVmad5zywaziN6CbfA&vq=hd1080&autoplay=1",
-          "type": "web"
-        }
+   },
+   {
+      "name":"Channel 24",
+      "logo":"https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png",
+      "links":[
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UCHLqIOMPk20w-6cFgkA90jw&vq=hd1080&autoplay=1",
+            "type":"web"
+         }
       ]
-  },
-  {
-      "name": "SOMOY TV",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/1200px-SOMOY_TV_Logo.svg.png",
-      "links": [
-        {
-          "url": "https://www.youtube.com/embed/live_stream?channel=UCxHoBXkY88Tb8z1Ssj6CWsQ&vq=hd1080&autoplay=1",
-          "type": "web"
-        }
+   },
+   {
+      "name":"NEWS24 LIVE",
+      "logo":"https://static.iono.fm/files/p3108/logo_3108_20230116_122650_600.jpg",
+      "links":[
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UCb2O5Uo4a26CdTE7_2QA-jA&vq=hd1080&autoplay=1",
+            "type":"web"
+         }
       ]
-  },
-  {
-      "name": "Independent Television",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",
-      "links": [
-        {
-          "url": "https://www.youtube.com/embed/live_stream?channel=UCATUkaOHwO9EP_W87zCiPbA&vq=hd1080&autoplay=1",
-          "type": "web"
-        }
+   },
+   {
+      "name":"DBC NEWS",
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",
+      "links":[
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UCUvXoiDEKI8VZJrr58g4VAw&vq=hd1080&autoplay=1",
+            "type":"web"
+         }
       ]
-  },
-  {
-      "name": "mytv",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg/1200px-Logo_of_My_TV_%28Bangladesh%29.svg.png",
-      "links": [
-        {
-          "url": "https://www.youtube.com/embed/live_stream?channel=UC9zgYOQB6zkleAQjW53DLeQ&vq=hd1080&autoplay=1",
-          "type": "web"
-        }
+   },
+   {
+      "name":"NTV Live",
+      "logo":"https://static.wikia.nocookie.net/etv-gspn-bangla/images/5/58/NTV_logo_with_slogan_2003.png",
+      "links":[
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UC0V3IJCnr6ZNjB9t_GLhFFA&vq=hd1080&autoplay=1",
+            "type":"web"
+         }
       ]
-  },
-  {
-      "name": "Jamuna TV",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/2560px-Jamuna_TV_logo.svg.png",
-      "links": [
-        {
-          "url": "https://www.youtube.com/embed/live_stream?channel=UCN6sm8iHiPd0cnoUardDAnw&vq=hd1080&autoplay=1",
-          "type": "web"
-        }
+   },
+   {
+      "name":"Ekattor TV",
+      "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",
+      "links":[
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UCtqvtAVmad5zywaziN6CbfA&vq=hd1080&autoplay=1",
+            "type":"web"
+         }
       ]
-  },
-  {
-      "name": "Ekushey Television",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/320px-Ekushey_Television_Logo.svg.png",
-      "links": [
-        {
-          "url": "https://www.youtube.com/embed/live_stream?channel=UCBQxpxkI2qLRAFR_6PNdwIA&vq=hd1080&autoplay=1",
-          "type": "web"
-        }
+   },
+   {
+      "name":"SOMOY TV",
+      "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/1200px-SOMOY_TV_Logo.svg.png",
+      "links":[
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UCxHoBXkY88Tb8z1Ssj6CWsQ&vq=hd1080&autoplay=1",
+            "type":"web"
+         }
       ]
-  },
-  {
-      "name": "Desh TV",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg",
-      "links": [
-        {
-          "url": "https://www.youtube.com/embed/live_stream?channel=UCqyt55f3byoK8rjgO0LBe4Q&vq=hd1080&autoplay=1",
-          "type": "web"
-        }
+   },
+   {
+      "name":"Independent Television",
+      "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",
+      "links":[
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UCATUkaOHwO9EP_W87zCiPbA&vq=hd1080&autoplay=1",
+            "type":"web"
+         }
       ]
-  },
-  {
-        "name": "Channel i Tv",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",
-        "links": [
-          {
-            "url": "https://www.youtube.com/embed/live_stream?channel=UCAz6rveBalVnE6qTmfQnvyQ&vq=hd1080&autoplay=1",
-            "type": "web"
-          }
-        ]
-    },
+   },
+   {
+      "name":"mytv",
+      "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg/1200px-Logo_of_My_TV_%28Bangladesh%29.svg.png",
+      "links":[
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UC9zgYOQB6zkleAQjW53DLeQ&vq=hd1080&autoplay=1",
+            "type":"web"
+         }
+      ]
+   },
+   {
+      "name":"Jamuna TV",
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/2560px-Jamuna_TV_logo.svg.png",
+      "links":[
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UCN6sm8iHiPd0cnoUardDAnw&vq=hd1080&autoplay=1",
+            "type":"web"
+         }
+      ]
+   },
+   {
+      "name":"Ekushey Television",
+      "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/320px-Ekushey_Television_Logo.svg.png",
+      "links":[
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UCBQxpxkI2qLRAFR_6PNdwIA&vq=hd1080&autoplay=1",
+            "type":"web"
+         }
+      ]
+   },
+   {
+      "name":"Desh TV",
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg",
+      "links":[
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UCqyt55f3byoK8rjgO0LBe4Q&vq=hd1080&autoplay=1",
+            "type":"web"
+         }
+      ]
+   },
+   {
+      "name":"Channel i Tv",
+      "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",
+      "links":[
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UCAz6rveBalVnE6qTmfQnvyQ&vq=hd1080&autoplay=1",
+            "type":"web"
+         }
+      ]
+   }
 ]
