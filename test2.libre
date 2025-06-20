@@ -189,4 +189,14 @@
         }
       ]
   },
+  {
+        "name": "Channel i Tv",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",
+        "links": [
+          {
+            "url": "https://www.youtube.com/embed/live_stream?channel=UCAz6rveBalVnE6qTmfQnvyQ&vq=hd1080&autoplay=1",
+            "type": "web"
+          }
+        ]
+    },
 ]
