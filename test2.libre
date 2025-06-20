@@ -30,12 +30,22 @@
     ]
   },
   {
+    "name": "BTV NEWS",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/BTV_News_Logo.png",
+    "links": [
+      {
+        "url": "https://www.btvlive.gov.bd/channel/BTV-News",
+        "type": "web"
+      }
+    ]
+  },
+  {
     "name": "Al Jazeera English",
     "logo": "https://upload.wikimedia.org/wikinews/en/thumb/0/0f/Al_Jazeera.svg/1229px-Al_Jazeera.svg.png",
     "links": [
       {
-        "url": "UCNye-wNBqNL5ZzHSJj3l8Bg",
-        "type": "yt"
+        "url": "https://www.youtube.com/embed/live_stream?channel=UCNye-wNBqNL5ZzHSJj3l8Bg&vq=hd1080&autoplay=1",
+        "type": "web"
       }
     ]
   }
