@@ -2,6 +2,8 @@
   {
     "name": "Bloomberg",
     "logo": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/e351b098-2b51-5fe6-a4fb-89d53e6e084c/e1552eaa-b7d1-56e6-a296-59dbf0e1db7d.jpg",
+    "group": "News",
+    "epg": "https://epg.pw/api/epg.xml?lang=en&date=20250620&channel_id=422716",
     "links": [
       {
         "url": "https://bloomberg.com/media-manifest/streams/us.m3u8",
