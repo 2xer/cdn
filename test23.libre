@@ -1,34 +1,25 @@
 [
+   
    {
-      "name":"Bloomberg",
-      "logo":"https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/e351b098-2b51-5fe6-a4fb-89d53e6e084c/e1552eaa-b7d1-56e6-a296-59dbf0e1db7d.jpg",
-      "group":"News",
-      "epg":"https://epg.pw/api/epg.xml?lang=en&date=20250620&channel_id=422716",
-      "links":[
-         {
-            "url":"https://bloomberg.com/media-manifest/streams/us.m3u8",
-            "type":"m3u8"
-         },
-         {
-            "url":"https://www.youtube.com/embed/live_stream?channel=UCIALMKvObZNtJ6AmdCLP7Lg&vq=hd1080&autoplay=1",
-            "type":"web"
-         },
-         {
-            "url":"https://bloomberg.com/media-manifest/streams/us.m3u8",
-            "type":"m3u8"
-         }
-      ]
+         "name":"TimeTV USA",
+         "logo":"https://live.bdtype.com/upload/tv/Time%20TV%20USA.png",
+         "links":[
+            {
+               "url":"https://cdn.streamcast.xyz/timetv/index.m3u8",
+               "type":"m3u8"
+            }
+         ]
    },
    {
-      "name":"Red Bull TV",
-      "logo":"https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712",
-      "links":[
-         {
-            "url":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
-            "type":"m3u8"
-         }
-      ]
-   },
+            "name":"TBN24 USA",
+            "logo":"https://live.bdtype.com/upload/tv/TBN%2024%20Live.JPG",
+            "links":[
+               {
+                  "url":"http://cdn01.palki.tv/live/TBN24-M/index.fmp4.m3u8",
+                  "type":"m3u8"
+               }
+            ]
+      },
    {
       "name":"BTV NEWS",
       "logo":"https://upload.wikimedia.org/wikipedia/en/c/c2/BTV_News_Logo.png",
@@ -198,5 +189,54 @@
             "type":"web"
          }
       ]
+   },
+   {
+      "name":"Madani Bangla",
+      "links":[
+         {
+            "url":"https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+            "type":"m3u8"
+         }
+      ]
+   },
+   {
+      "name":"Madani English",
+      "links":[
+         {
+            "url":"https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
+            "type":"m3u8"
+         }
+      ]
+   },
+   {
+      "name":"Bloomberg",
+      "logo":"https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/e351b098-2b51-5fe6-a4fb-89d53e6e084c/e1552eaa-b7d1-56e6-a296-59dbf0e1db7d.jpg",
+      "group":"News",
+      "epg":"https://epg.pw/api/epg.xml?lang=en&date=20250620&channel_id=422716",
+      "links":[
+         {
+            "url":"https://bloomberg.com/media-manifest/streams/us.m3u8",
+            "type":"m3u8"
+         },
+         {
+            "url":"https://www.youtube.com/embed/live_stream?channel=UCIALMKvObZNtJ6AmdCLP7Lg&vq=hd1080&autoplay=1",
+            "type":"web"
+         },
+         {
+            "url":"https://bloomberg.com/media-manifest/streams/us.m3u8",
+            "type":"m3u8"
+         }
+      ]
+   },
+   {
+      "name":"Red Bull TV",
+      "logo":"https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712",
+      "links":[
+         {
+            "url":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+            "type":"m3u8"
+         }
+      ]
    }
+
 ]
