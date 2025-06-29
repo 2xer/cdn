@@ -1,25 +1,24 @@
 [
-   
    {
-         "name":"TimeTV USA",
-         "logo":"https://live.bdtype.com/upload/tv/Time%20TV%20USA.png",
-         "links":[
-            {
-               "url":"https://cdn.streamcast.xyz/timetv/index.m3u8",
-               "type":"m3u8"
-            }
-         ]
+      "name":"TimeTV USA",
+      "logo":"https://live.bdtype.com/upload/tv/Time%20TV%20USA.png",
+      "links":[
+         {
+            "url":"https://cdn.streamcast.xyz/timetv/index.m3u8",
+            "type":"m3u8"
+         }
+      ]
    },
    {
-            "name":"TBN24 USA",
-            "logo":"https://live.bdtype.com/upload/tv/TBN%2024%20Live.JPG",
-            "links":[
-               {
-                  "url":"http://cdn01.palki.tv/live/TBN24-M/index.fmp4.m3u8",
-                  "type":"m3u8"
-               }
-            ]
-      },
+      "name":"TBN24 USA",
+      "logo":"https://live.bdtype.com/upload/tv/TBN%2024%20Live.JPG",
+      "links":[
+         {
+            "url":"http://cdn01.palki.tv/live/TBN24-M/index.fmp4.m3u8",
+            "type":"m3u8"
+         }
+      ]
+   },
    {
       "name":"BTV NEWS",
       "logo":"https://upload.wikimedia.org/wikipedia/en/c/c2/BTV_News_Logo.png",
@@ -238,5 +237,4 @@
          }
       ]
    }
-
 ]
