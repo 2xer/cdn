@@ -1,0 +1,200 @@
+[
+  {
+    "name": "CNN",
+    "links": [
+      {
+        "url": "https://fl3.moveonjoy.com/CNN/index.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "CNBC",
+    "links": [
+      {
+        "url": "https://fl5.moveonjoy.com/CNBC/index.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "MSNBC",
+    "links": [
+      {
+        "url": "https://fl1.moveonjoy.com/MSNBC/index.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "CBC News",
+    "links": [
+      {
+        "url": "https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "CBS New York",
+    "links": [
+      {
+        "url": "https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "NBC News",
+    "links": [
+      {
+        "url": "https://livetv-fa.tubi.video/nbc-news-now/master.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Fox News",
+    "links": [
+      {
+        "url": "https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Bloomberg Terminal",
+    "links": [
+      {
+        "url": "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Bloomberg",
+    "links": [
+      {
+        "url": "https://bloomberg-bloomberg-1-dk.samsung.wurl.tv/playlist.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Bloomberg Asia",
+    "links": [
+      {
+        "url": "https://www.bloomberg.com/media-manifest/streams/asia.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Bloomberg EU",
+    "links": [
+      {
+        "url": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Yahoo Finance",
+    "links": [
+      {
+        "url": "https://yahoo-plex.amagi.tv/playlist.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "CBS News",
+    "links": [
+      {
+        "url": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Sky News",
+    "links": [
+      {
+        "url": "https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "DW News",
+    "links": [
+      {
+        "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "BBC News",
+    "links": [
+      {
+        "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Newsmax TV",
+    "links": [
+      {
+        "url": "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Fox Weather",
+    "links": [
+      {
+        "url": "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Weather.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "PBS Live",
+    "links": [
+      {
+        "url": "https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Voice Of America",
+    "links": [
+      {
+        "url": "https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/master.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Telemundo New York",
+    "links": [
+      {
+        "url": "https://www.telemundo47.com/ver/",
+        "type": "web"
+      }
+    ]
+  },
+  {
+    "name": "PBS KIDS",
+    "links": [
+      {
+        "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  }
+]
