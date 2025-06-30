@@ -9,6 +9,24 @@
     ]
   },
   {
+    "name": "ABC News",
+    "links": [
+      {
+        "url": "https://www.youtube.com/embed/live_stream?channel=UCBi2mrWuNuyYy4gbM6fU18Q&vq=hd1080&autoplay=1",
+        "type": "web"
+      }
+    ]
+  },
+  {
+    "name": "LiveNOW from FOX",
+    "links": [
+      {
+        "url": "https://www.youtube.com/embed/live_stream?channel=UCJg9wBPyKMNA5sRDnvzmkdg&vq=hd1080&autoplay=1",
+        "type": "web"
+      }
+    ]
+  },
+  {
     "name": "CNBC",
     "links": [
       {
