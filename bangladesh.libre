@@ -110,10 +110,6 @@
       "logo":"https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",
       "links":[
          {
-            "url":"https://www.youtube.com/embed/live_stream?channel=UCUvXoiDEKI8VZJrr58g4VAw&vq=hd1080&autoplay=1",
-            "type":"web"
-         },
-         {
             "url":"https://www.jagobd.com/dbcnews",
             "type":"web"
          }
